@@ -1,0 +1,46 @@
+{
+  "name": "我的项目",
+  "description": "根据项目计划进行可视化管理。",
+  "steps": [
+    {
+      "label": "框架校准 (10.1—10.3)",
+      "status": "current",
+      "description": "确认案例矩阵"
+    },
+    {
+      "label": "政策底稿 (10.4—10.10)",
+      "status": "pending",
+      "description": "补齐缺失原文与跨领域检索"
+    },
+    {
+      "label": "资金与认养 (10.11—10.17)",
+      "status": "pending",
+      "description": "中庄、大孝堡、诸葛村、南京社会资本"
+    },
+    {
+      "label": "修缮与工匠 (10.18—10.24)",
+      "status": "pending",
+      "description": "诸葛村抢修、长治撑伞、南京老民居"
+    },
+    {
+      "label": "志愿服务 (10.25—10.31)",
+      "status": "pending",
+      "description": "中轴线巡检、长治志愿者、良渚"
+    },
+    {
+      "label": "差异化与提纲 (11.1—11.4)",
+      "status": "pending",
+      "description": "交老师确认 (中期节点)"
+    },
+    {
+      "label": "成稿 (11.5—11.10)",
+      "status": "pending",
+      "description": "按参与方式分段写作"
+    },
+    {
+      "label": "打磨交付 (11.11—11.15)",
+      "status": "pending",
+      "description": "引注核对、边界核对、定稿"
+    }
+  ]
+}
